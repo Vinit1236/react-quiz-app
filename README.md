@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Here is The deployed link
+#### Link: https://vinit1236.github.io/react-quiz-app/
+####  https://vinit-react-quiz-app.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
